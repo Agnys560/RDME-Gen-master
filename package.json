@@ -1,0 +1,17 @@
+{
+  "name": "static-site",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: No test has been given\" && exit 1"
+  },
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^0.19.2",
+    "dotenv": "^8.0.0",
+    "author": "Jonathan Modlin",
+    "fs": "0.0.1-security",
+    "inquirer": "^6.5.2"
+  }
+}
